@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000641",
-          "id": 463000641,
-          "node_id": "RA_kwDOTKSZn84bmNRB",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052848",
+          "id": 463052848,
+          "node_id": "RA_kwDOTKSZn84bmaAw",
           "name": "zapret_v72.20260307_arm_arm1176jzf-s_vfp.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 420154,
-          "digest": "sha256:dacb51dc076290b60107099c8ff65f15d1b8229a1dd6333e4b57d7c7b2f162bf",
+          "size": 211652,
+          "digest": "sha256:cd82742f9f590b41b0d50dd8b13a50d225cfda9525becec16d8fa83a9687870c",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:03Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_arm_arm1176jzf-s_vfp.zip"
         }
       ]

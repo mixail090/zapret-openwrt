@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000644",
-          "id": 463000644,
-          "node_id": "RA_kwDOTKSZn84bmNRE",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052845",
+          "id": 463052845,
+          "node_id": "RA_kwDOTKSZn84bmaAt",
           "name": "zapret_v72.20260307_aarch64_cortex-a76.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 437481,
-          "digest": "sha256:b9a14175472f20030a91a22e43a1c85165985505c9a2bc51d0f694bf96f1d26c",
+          "size": 219678,
+          "digest": "sha256:c1137a073f976243f1945e190f8808b7f042c8df9d130dc63a795b4f1a864564",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:04Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_aarch64_cortex-a76.zip"
         }
       ]

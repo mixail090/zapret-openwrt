@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000610",
-          "id": 463000610,
-          "node_id": "RA_kwDOTKSZn84bmNQi",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052847",
+          "id": 463052847,
+          "node_id": "RA_kwDOTKSZn84bmaAv",
           "name": "zapret_v72.20260307_riscv64_generic.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 243992,
-          "digest": "sha256:c01ce7c8357cbf732ae0952944bce8af9ff45121e31fb2c4df456f273b21b975",
+          "size": 221351,
+          "digest": "sha256:3de8b361a0cb47271cd89b536a65774c2852a234cebde012f090f3b2180799b1",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:03Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_riscv64_generic.zip"
         }
       ]

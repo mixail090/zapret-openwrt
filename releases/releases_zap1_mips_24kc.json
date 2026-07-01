@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000628",
-          "id": 463000628,
-          "node_id": "RA_kwDOTKSZn84bmNQ0",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052861",
+          "id": 463052861,
+          "node_id": "RA_kwDOTKSZn84bmaA9",
           "name": "zapret_v72.20260307_mips_24kc.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 403667,
-          "digest": "sha256:66ebe6ec3a255d6d807821daf97f0bbe2ac5c4df26b74416834f3efc30d70723",
+          "size": 201971,
+          "digest": "sha256:27d8e93ba8f52ef89a52bcbd0d59c1b4cbaa2548a4d83cde179c570282833f2f",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:03Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_mips_24kc.zip"
         }
       ]

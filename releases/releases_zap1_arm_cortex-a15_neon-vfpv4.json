@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000637",
-          "id": 463000637,
-          "node_id": "RA_kwDOTKSZn84bmNQ9",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052867",
+          "id": 463052867,
+          "node_id": "RA_kwDOTKSZn84bmaBD",
           "name": "zapret_v72.20260307_arm_cortex-a15_neon-vfpv4.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 418887,
-          "digest": "sha256:3270b15ec42232b8018bfa840b828be37094ced85ab4ed09b5a8a92db97b06d8",
+          "size": 210958,
+          "digest": "sha256:ac9c3bb98521feb632b8de77be76e13a1905f1ca377cbab402a6a2091d060f6f",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:03Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_arm_cortex-a15_neon-vfpv4.zip"
         }
       ]

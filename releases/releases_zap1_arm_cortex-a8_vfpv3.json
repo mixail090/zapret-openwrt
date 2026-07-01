@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T08:27:41Z",
+  "generated_at": "2026-07-01T09:33:02Z",
   "releases": [
     {
       "tag": "v72.20260307",
       "name": "zapret v72.20260307",
       "prerelease": true,
       "created_at": "2026-04-22T17:19:44Z",
-      "updated_at": "2026-07-01T08:27:04Z",
+      "updated_at": "2026-07-01T09:32:52Z",
       "published_at": "2026-07-01T08:27:02Z",
       "url": "https://github.com/mixail090/zapret-openwrt/releases/tag/v72.20260307",
       "assets": [
         {
-          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463000631",
-          "id": 463000631,
-          "node_id": "RA_kwDOTKSZn84bmNQ3",
+          "url": "https://api.github.com/repos/mixail090/zapret-openwrt/releases/assets/463052859",
+          "id": 463052859,
+          "node_id": "RA_kwDOTKSZn84bmaA7",
           "name": "zapret_v72.20260307_arm_cortex-a8_vfpv3.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 419444,
-          "digest": "sha256:5b1e70f67d571ce41e8464abdeb665fc551f12135544f3cca09381d083939804",
+          "size": 211283,
+          "digest": "sha256:bf5b8ed8b58618a6af61db5b9fcc080fff1f14de39ab3887b78ea24ce7e1bbfc",
           "download_count": 0,
-          "created_at": "2026-07-01T08:27:03Z",
-          "updated_at": "2026-07-01T08:27:03Z",
+          "created_at": "2026-07-01T09:32:51Z",
+          "updated_at": "2026-07-01T09:32:51Z",
           "browser_download_url": "https://github.com/mixail090/zapret-openwrt/releases/download/v72.20260307/zapret_v72.20260307_arm_cortex-a8_vfpv3.zip"
         }
       ]
