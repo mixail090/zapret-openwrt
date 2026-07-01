@@ -143,7 +143,7 @@ jobs:
           - arch: aarch64_cortex-a53
           - arch: x86_64
     container:
-      image: ghcr.io/openwrt/sdk:${{ matrix.arch }}-v25.12.0
+      image: ghcr.io/openwrt/sdk:${{ matrix.arch }}-v25.12.5
       options: --user root
 
     outputs:
@@ -268,7 +268,7 @@ jobs:
           ARCH_TAG: ${{ matrix.arch }}
           LOGS_DIR: ${{ env.SDKDIR }}/logs
         run: |
-          tar -cJvf logs-v25.12.0-$ARCH_TAG.tar.xz $LOGS_DIR
+          tar -cJvf logs-v25.12.5-$ARCH_TAG.tar.xz $LOGS_DIR
 
       - name: Upload packages
         if: steps.install.outcome == 'success'
@@ -283,7 +283,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: logs-*.tar.xz
-          name: logs-v25.12.0-${{ matrix.arch }}
+          name: logs-v25.12.5-${{ matrix.arch }}
 
   release:
     needs: [ check, build ]
